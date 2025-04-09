@@ -38,19 +38,19 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ---
 
-## 🧠 Technology Stack
+## 🧱 Prerequisite
 
 - **Frontend:** Flutter
 - **Backend:** Firebase (Realtime Database)
 - **Programming Language:** Dart
 - **Security & Threat Analysis:** VirusTotal API
-- **IDE:** Android Studio
+- **IDE:** Android Studio / Visual Studio Code
 
 ---
 
 ## 🛠️ Project Setup
 
-### Initial Setup
+### 🔨 Initial Setup
 
 1. Create New Flutter Project on Android Studio or Visual Studio Code and name it 'qr_secure_scan'.
 
@@ -64,14 +64,14 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    ```bash
    flutter pub get
 
-### Firebase Setup
+### 🔥 Firebase Setup
 
 1. Set up Firebase and Intergrate with Flutter by OWN.
 
-2. Firebase Database
+2. Firestore Database
    - [Check Out the Screenshots](screenshots/firebase-setup/firestore-database/)
 
-   - Create collection called "maliciousURL". *IMPORTANT*⚠️
+   - *IMPORTANT*⚠️ Create collection called "maliciousURL".
 
    - Document and Field dont fill up anything, code handles it.
 
@@ -85,7 +85,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 4. Storage
    - [Check Out the Screenshots](screenshots/firebase-setup/storage/)
    
-   - This is where images stored, create an folder "reports/". *IMPORTANT*⚠️
+   - *IMPORTANT*⚠️ This is where images stored, create an folder "reports/". 
 
    - Make sure add the rules.
 
