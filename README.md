@@ -1,5 +1,4 @@
-# QR Secure Scan App   ![QR Icon](https://img.icons8.com/ios-filled/50/000000/qr-code.png)
-
+# QR Secure Scan App
 
 A Flutter-based mobile application that enhances cybersecurity by scanning QR codes and detecting malicious URLs using integrated threat intelligence APIs and a custom malicious URL database.
 
@@ -12,23 +11,23 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 ## 🚨 Key Features
 
 - **Real-time QR Code Scanning**
-  
+
   - Scan using the camera or import from the gallery
   - Detects and analyzes embedded URLs
 - **Threat Detection**
-  
+
   - Integration with [VirusTotal API](https://www.virustotal.com/)
   - Custom database for admin-verified malicious URLs
 - **User Reporting System**
-  
+
   - Submit suspicious URLs with optional screenshots and explanations
 - **Admin Panel**
-  
+
   - Manage reported URLs
   - Classify URLs as malicious or safe
   - Update the malicious URL database
 - **Public Threat Awareness**
-  
+
   - View a database of known malicious URLs
 
 ---
@@ -49,16 +48,15 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 - Flutter SDK
 - Dart
-- Android Studio (optional for emulator)
-- Firebase account
+- Android Studio / Visual Studio
+- Firebase Console
 - VirusTotal API key (free or premium)
 
 ### Steps
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aivxx02/qr-secure-scan.git
-   ```bash
+   git clone https://github.com/yourusername/qr-secure-scan.git
    cd qr-secure-scan
 
 2. Install dependencies:
