@@ -83,7 +83,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 1. Set up Firebase and Intergrate with Flutter by OWN.
 
 2. Firestore Database
-   - [Check Out the Screenshots](screenshots/firebase-setup/firestore-database/)
+   - <img src="https://github.com/user-attachments/assets/5d5b21b6-e4da-47b4-b317-9fe7ab366514)" alt="firebase_database" width="200"/> <br />
 
    - *IMPORTANT*⚠️ Create collection called "maliciousURL".
 
