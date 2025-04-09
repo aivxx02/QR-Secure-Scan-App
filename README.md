@@ -10,7 +10,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 📸 Screenshots
 
-![Homepage](image.png) ![Scan Result](image-1.png) ![Malicious URL Database](image-2.png)
+- [screenshot folder](screenshot/)
 
 ----
 
