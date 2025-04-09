@@ -10,12 +10,12 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 📸 Screenshots
 
+  - [Click here to View More Screenshots](screenshots/app-images/) <br />
   <img src="https://github.com/user-attachments/assets/79f83455-4044-44ff-b769-45c1af6980fd" alt="homepage" width="150"/>
   <img src="https://github.com/user-attachments/assets/837d7392-9003-4271-9663-aa19fdcaf88c" alt="scan_result" width="150"/>
   <img src="https://github.com/user-attachments/assets/76baef30-6998-47c7-985e-51ec375fb6db" alt="malicious_URL_database" width="150"/>
   <img src="https://github.com/user-attachments/assets/07d4f7f4-2caf-4897-a20a-0f411b79b7d2" alt="admin_login" width="150"/>
-  <img src="https://github.com/user-attachments/assets/0c45a48a-bb3f-439f-833f-8084e7789414" alt="admin_homepage" width="150"/> <br />
-  - [Click here to View More Screenshots](screenshots/app-images/)
+  <img src="https://github.com/user-attachments/assets/0c45a48a-bb3f-439f-833f-8084e7789414" alt="admin_homepage" width="150"/>
   
 ----
 
