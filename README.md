@@ -1,4 +1,4 @@
-# QR Secure Scan App
+# QR Secure Scan Application
 
 A Flutter-based mobile application that enhances cybersecurity by scanning QR codes and detecting malicious URLs using integrated threat intelligence APIs and a custom malicious URL database.
 
@@ -50,30 +50,47 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 🛠️ Project Setup
 
-### Prerequisites
+### Initial Setup
 
-- Flutter SDK
-- Dart
-- Android Studio / Visual Studio
-- Firebase Console
-- VirusTotal API key (free or premium)
+1. Create New Flutter Project on Android Studio or Visual Studio Code and name it 'qr_secure_scan'.
 
-### Steps
-
-1. Clone this repository:
+2. Clone this repository or download zip file:
    ```bash
-   git clone https://github.com/yourusername/qr-secure-scan.git
-   cd qr-secure-scan
+   git clone https://github.com/aivxx02/qr-secure-scan.git
 
-2. Install dependencies:
+3. Extract the Zip file and copy the files and paste/replace it on 'qr_secure_scan' project file.
+
+4. Install dependencies:
    ```bash
    flutter pub get
 
-3. Set up Firebase:
+### Firebase Setup
 
-   - Enable Authentication
-   - Create a Realtime Database
-   - Download and add your google-services.json to /android/app/
+1. Set up Firebase and Intergrate with Flutter by OWN.
+
+2. Firebase Database
+   - [Check Out the Screenshots](screenshots/firebase-setup/firestore-database/)
+
+   - Create collection called "maliciousURL". *IMPORTANT*⚠️
+
+   - Document and Field dont fill up anything, code handles it.
+
+   - Make sure add the rules.
+
+3. Authentication
+   - [Check Out the Screenshots](screenshots/firebase-setup/authentication/)
+
+   - Add new user by random email / own email for admin login.
+
+4. Storage
+   - [Check Out the Screenshots](screenshots/firebase-setup/storage/)
+   
+   - This is where images stored, create an folder "reports/". *IMPORTANT*⚠️
+
+   - Make sure add the rules.
+
+
+
 
 4. Add your VirusTotal API key in the config file:
    ```bash
