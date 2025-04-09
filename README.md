@@ -64,12 +64,12 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    ```bash
    flutter pub get
 
-5. Line 9, 10, 41, 42, 72 & 73 ([lib/SMTPEmail.dart/](lib/SMTPEmail.dart/)) Line 9, 10, 41, 42, 72 & 73
+5. Line 9, 10, 41, 42, 72 & 73 [lib/SMTPEmail.dart/](lib/SMTPEmail.dart/)
     ```bash 
     const String username = 'test@gmail.com'; // insert your gmail
     const String password = 'xx xx xx xx'; // Use an App Password, NOT your Gmail password
 
-6. Line 120 ([lib\pages\users\scan\scan_page.dart](lib\pages\users\scan\scan_page.dart)) && Line 122([lib\pages\users\scan\image_select.dart](lib\pages\users\scan\image_select.dart))
+6. Line 120 [lib\pages\users\scan\scan_page.dart](lib\pages\users\scan\scan_page.dart) && Line 122 [lib\pages\users\scan\image_select.dart](lib\pages\users\scan\image_select.dart)
 	```
 	const apiKey = ''; // insert Virus Total API key
 
