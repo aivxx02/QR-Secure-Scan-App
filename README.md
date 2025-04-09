@@ -22,7 +22,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
   - Detects and analyzes embedded URLs
 - **Threat Detection**
 
-  - Integration with [VirusTotal API](https://www.virustotal.com/)
+  - Integration with VirusTotal API
   - Custom database for admin-verified malicious URLs
 - **User Reporting System**
 
@@ -64,10 +64,12 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    ```bash
    flutter pub get
 
-5. [Line 72 & 73 (lib/SMTPEmail.dart/)](lib/SMTPEmail.dart/)
+5. [Line 9, 10, 41, 42, 72 & 73](lib/SMTPEmail.dart/) (lib/SMTPEmail.dart/)
     ```bash 
     const String username = 'test@gmail.com'; // insert your gmail
     const String password = 'xx xx xx xx'; // Use an App Password, NOT your Gmail password
+
+6. [lib\pages\users\scan\scan_page.dart](lib\pages\users\scan\scan_page.dart) && [lib\pages\users\scan\image_select.dart](lib\pages\users\scan\image_select.dart)
 
 ### 🔥 Firebase Setup
 
