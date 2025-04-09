@@ -1,4 +1,4 @@
-# QR Secure Scan App
+# QR Secure Scan App ![QR Code Icon](https://img.icons8.com/ios-filled/50/000000/qr-code.png)
 
 A Flutter-based mobile application that enhances cybersecurity by scanning QR codes and detecting malicious URLs using integrated threat intelligence APIs and a custom malicious URL database.
 
