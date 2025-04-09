@@ -10,7 +10,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 📸 Screenshots
 
-- [Click here to view Screenshots](screenshots/)
+- [Click here to view Screenshots](screenshots/app-images)
 
 ----
 
@@ -63,6 +63,8 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 4. Install dependencies:
    ```bash
    flutter pub get
+
+5. 
 
 ### 🔥 Firebase Setup
 
