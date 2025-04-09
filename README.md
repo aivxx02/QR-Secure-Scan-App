@@ -10,7 +10,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 📸 Screenshots
 
-- [Click here to view Screenshots](screenshots/app-images)
+- [Click here to view Screenshots](screenshots/app-images/)
 
 ----
 
@@ -40,11 +40,11 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 🧱 Prerequisite
 
-- **Frontend:** [Flutter](https://docs.flutter.dev/get-started/install/windows/desktop)
+- **Frontend:** [Flutter](https://docs.flutter.dev/get-started/install/windows/desktop/)
 - **Backend:** [Firebase](https://firebase.google.com/) (Realtime Database)
 - **Programming Language:** Dart
-- **Security & Threat Analysis:** [VirusTotal API](https://www.virustotal.com/gui/home/upload)
-- **IDE:** [Android Studio](https://developer.android.com/studio) / [Visual Studio Code](https://visualstudio.microsoft.com/downloads/)
+- **Security & Threat Analysis:** [VirusTotal API](https://www.virustotal.com/gui/home/upload/)
+- **IDE:** [Android Studio](https://developer.android.com/studio/) / [Visual Studio Code](https://visualstudio.microsoft.com/downloads/)
 
 ---
 
@@ -69,7 +69,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
     const String username = 'test@gmail.com'; // insert your gmail
     const String password = 'xx xx xx xx'; // Use an App Password, NOT your Gmail password
 
-6. Line 120 [lib\pages\users\scan\scan_page.dart](lib\pages\users\scan\scan_page.dart) && Line 122 [lib\pages\users\scan\image_select.dart](lib\pages\users\scan\image_select.dart)
+6. Line 120 [lib/pages/users/scan/scan_page.dart](lib/pages/users/scan/scan_page.dart/) && Line 122 [lib/pages/users/scan/image_select.dart](lib/pages/users/scan/image_select.dart/)
 	```
 	const apiKey = ''; // insert Virus Total API key
 
@@ -100,4 +100,4 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE/) file for details.
