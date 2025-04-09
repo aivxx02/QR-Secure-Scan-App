@@ -52,13 +52,13 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ### 🔨 Initial Setup
 
-1. Create New Flutter Project on Android Studio or Visual Studio Code and name it 'qr_secure_scan'.
+1. Create New Flutter Project on Android Studio or Visual Studio Code and name it **'qr_secure_scan'**.
 
 2. Clone this repository or download zip file:
    ```bash
    git clone https://github.com/aivxx02/qr-secure-scan.git
 
-3. Extract the Zip file and copy the files and paste/replace it on 'qr_secure_scan' project file.
+3. Extract the Zip file and **copy** the files and **paste/replace** it on **'qr_secure_scan'** project file.
 
 4. Install dependencies:
    ```bash
