@@ -11,18 +11,23 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 ## 🚨 Key Features
 
 - **Real-time QR Code Scanning**
+  
   - Scan using the camera or import from the gallery
   - Detects and analyzes embedded URLs
 - **Threat Detection**
+  
   - Integration with [VirusTotal API](https://www.virustotal.com/)
   - Custom database for admin-verified malicious URLs
 - **User Reporting System**
+  
   - Submit suspicious URLs with optional screenshots and explanations
 - **Admin Panel**
+  
   - Manage reported URLs
   - Classify URLs as malicious or safe
   - Update the malicious URL database
 - **Public Threat Awareness**
+  
   - View a database of known malicious URLs
 
 ---
