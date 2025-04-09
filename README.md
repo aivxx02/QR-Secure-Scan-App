@@ -93,7 +93,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    - Make sure add the rules.
 
 3. Authentication
-   - <img src="https://github.com/user-attachments/assets/ca0cc7f4-08a0-4916-8b65-9fab39fd2b7e" alt="authentication" width="450"/> <br />
+   - <img src="https://github.com/user-attachments/assets/003e5400-ab00-4d12-a18d-f60e835f8de0" alt="authentication" width="400"/> <br />
 
    - Add new user by random email / own email for admin login.
 
