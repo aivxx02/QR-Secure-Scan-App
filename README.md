@@ -51,7 +51,8 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/qr-secure-scan.git
+   git clone https://github.com/aivxx02/qr-secure-scan.git
+   ```bash
    cd qr-secure-scan
 
 2. Install dependencies:
