@@ -93,13 +93,14 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    - Make sure add the rules.
 
 3. Authentication
-   - [Check Out the Screenshots](screenshots/firebase-setup/authentication/)
+   - <img src="https://github.com/user-attachments/assets/ca0cc7f4-08a0-4916-8b65-9fab39fd2b7e" alt="authentication" width="450"/> <br />
 
    - Add new user by random email / own email for admin login.
 
 4. Storage
-   - [Check Out the Screenshots](screenshots/firebase-setup/storage/)
-   
+   - <img src="https://github.com/user-attachments/assets/1bfb91a0-4898-4834-ab8d-f650f71211b6" alt="storage" width="400"/>
+     <img src="https://github.com/user-attachments/assets/1546243d-9c7a-4bed-9ce9-b31367c24deb" alt="storage_rules" width="350"/> <br />
+
    - *IMPORTANT*⚠️ This is where images stored, create an folder "reports/". 
 
    - Make sure add the rules.
