@@ -40,11 +40,11 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 ## 🧱 Prerequisite
 
-- **Frontend:** Flutter
-- **Backend:** Firebase (Realtime Database)
+- **Frontend:** [Flutter](https://docs.flutter.dev/get-started/install/windows/desktop)
+- **Backend:** [Firebase](https://firebase.google.com/) (Realtime Database)
 - **Programming Language:** Dart
-- **Security & Threat Analysis:** VirusTotal API
-- **IDE:** Android Studio / Visual Studio Code
+- **Security & Threat Analysis:** [VirusTotal API](https://www.virustotal.com/gui/home/upload)
+- **IDE:** [Android Studio](https://developer.android.com/studio) / [Visual Studio Code](https://visualstudio.microsoft.com/downloads/)
 
 ---
 
@@ -99,12 +99,5 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
    - Make sure add the rules.
 
 
-
-
-4. Add your VirusTotal API key in the config file:
-   ```bash
-   const String virusTotalApiKey = "YOUR_API_KEY";
-
-5. Run the app:
-   ```bash
-   flutter run
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
