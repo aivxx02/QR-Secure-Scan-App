@@ -99,7 +99,7 @@ QR Secure Scan is designed to help users safely scan QR codes, identify potentia
 
 4. Storage
    - <img src="https://github.com/user-attachments/assets/1bfb91a0-4898-4834-ab8d-f650f71211b6" alt="storage" width="400"/>
-     <img src="https://github.com/user-attachments/assets/1546243d-9c7a-4bed-9ce9-b31367c24deb" alt="storage_rules" width="400"/> <br />
+     <img src="https://github.com/user-attachments/assets/1ceddb1b-74e1-4ce4-ab6f-37da53aad450" alt="storage_rules" width="350"/> <br /> 
 
    - *IMPORTANT*⚠️ This is where images stored, create an folder **"reports/"**. 
 
